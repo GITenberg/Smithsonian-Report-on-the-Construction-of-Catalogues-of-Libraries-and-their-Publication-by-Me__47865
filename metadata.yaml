@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Smithsonian Report on the Construction of Catalogues of Libraries and their
   Publication by Means of Separate, Stereotyped Titles
 
